@@ -5,9 +5,10 @@ Here are a couple of projects I've been working on:
 
 ## Projects
 
-### 1. Full Stack Booking App (MERN)
+### 1. Full Stack Booking Website (MERN)
 A comprehensive booking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 This app allows users to book rentals, manage their bookings, and view booking details.
+https://john-booking-app.vercel.app/
 
 - **Technologies Used**: MongoDB, Express.js, React.js, Node.js
 - **Features**:
@@ -15,7 +16,7 @@ This app allows users to book rentals, manage their bookings, and view booking d
   - Rental booking and management
   - Responsive design
 
-### 2. Fitness Social Media App
+### 2. Fitness Social Media Website
 A social media platform focused on fitness enthusiasts, built using Spring Boot, PostgreSQL, Node.js, and React.js. 
 Users can share their fitness journeys, connect with others, and track their progress.
 
@@ -24,6 +25,16 @@ Users can share their fitness journeys, connect with others, and track their pro
   - User profiles and authentication
   - Post creation and interaction (likes, comments)
   - Progress tracking and analytics
+
+ ### 3. Portfolio Website
+My personal portfolio website! This website showcases my skills, projects, and contact information.
+https://portfolio-website-theta-blue.vercel.app/
+
+- **Technologies Used**: HTML, CSS
+- **Features**:
+  - Introduction and navigation menu.
+  - Information about me, my skills, and education.
+  - Contact information and a form to send messages.
 
 ## Skills
 - **Languages**: JavaScript, Java, SQL, Python
