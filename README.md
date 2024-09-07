@@ -24,7 +24,6 @@ Users can share their fitness journeys, connect with others, and track their pro
 - **Features**:
   - User profiles and authentication
   - Post creation and interaction (likes, comments)
-  - Progress tracking and analytics
 
  ### 3. Portfolio Website
 My personal portfolio website! This website showcases my skills, projects, and contact information.
