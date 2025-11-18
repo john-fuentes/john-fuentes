@@ -4,8 +4,26 @@ I'm a Computer Science student passionate about full-stack development and creat
 Here are a couple of projects I've been working on:
 
 ## Projects
+### 1. Machine Learning Threat Detector
+This website tracks user activity on a Linux based computer system. Anomalies in user activty and 
+possible threats are displayed to a dashboard on the website, along with all computer logs. 
 
-### 1. Full Stack Booking Website (MERN)
+- **Technologies Used**: Next.js, Flask, Kafka, Linux, ElasticSearch, Supabase, Docker
+- **Features**:
+  - Dashboard with machine learning log analysis results, highlighting anomalies when they occur.
+  - Computer system logs for debugging.
+  - Kafka for scalable use.
+ 
+### 2. Fitness Social Media Website
+A social media platform focused on fitness enthusiasts, built using Spring Boot, PostgreSQL, and Next.js. 
+Users can share their fitness journeys, connect with others, and track their progress.
+
+- **Technologies Used**: Spring Boot, PostgreSQL, Next.js, Docker, AWS S3
+- **Features**:
+  - User profiles and authentication
+  - Post creation and interaction (likes, comments)
+  
+### 3. Full Stack Booking Website (MERN)
 A comprehensive booking application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). 
 This app allows users to book rentals, manage their bookings, and view booking details.
 https://john-booking-app.vercel.app/
@@ -16,16 +34,8 @@ https://john-booking-app.vercel.app/
   - Rental booking and management
   - Responsive design
 
-### 2. Fitness Social Media Website
-A social media platform focused on fitness enthusiasts, built using Spring Boot, PostgreSQL, Node.js, and React.js. 
-Users can share their fitness journeys, connect with others, and track their progress.
 
-- **Technologies Used**: Spring Boot, PostgreSQL, Node.js, React.js
-- **Features**:
-  - User profiles and authentication
-  - Post creation and interaction (likes, comments)
-
- ### 3. Portfolio Website
+### 4. Portfolio Website
 My personal portfolio website! This website showcases my skills, projects, and contact information.
 https://portfolio-website-theta-blue.vercel.app/
 
@@ -37,8 +47,8 @@ https://portfolio-website-theta-blue.vercel.app/
 
 ## Skills
 - **Languages**: JavaScript, Java, SQL, Python
-- **Frameworks**: Spring Boot, React.js, Express.js
-- **Databases**: MongoDB, PostgreSQL
+- **Frameworks**: Spring Boot, React.js, Express.js, Next.js
+- **Databases**: MongoDB, PostgreSQL, DynamoDB
 - **Tools**: Git, Docker, AWS S3
 
 ## Get in Touch
